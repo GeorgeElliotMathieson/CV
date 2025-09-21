@@ -14,7 +14,7 @@
 
 ## **Profile** <span style="float: right;"><a href="#george-mathieson"><strong style="font-size: 1.5em;">^</strong></a></span> <a id="profile"></a>
 
-A highly driven and practical-thinking Computer Engineer with a proven track record of developing impactful, real-world optimisation solutions within Tesla. My passion for accelerating the transition to sustainable energy is not just a long-held belief but a tangible motivator behind all of my work, including single-handedly creating a now-indispensable scheduling and routing tool for Tesla's UK Delivery operations. I am eager to apply my deep passion for algorithm design, numerical optimisation, and machine learning to the complex challenges of the energy market - interfacing with a critical piece of infrastructure - as a member of the Autobidder team.
+A highly driven and practical-thinking Computer Engineer with a proven track record of developing impactful, real-world optimisation solutions. My drive to build robust, efficient software is a tangible motivator behind my work, including single-handedly creating a production-grade scheduling and routing tool now used daily to streamline complex operations at Tesla. I am eager to apply my deep passion for algorithm design, numerical optimisation, and machine learning to complex, system-level engineering challenges across software and computing domains.
 
 ---
 
